@@ -2,7 +2,8 @@
 
 ## Description
 
-This application is designed to log visitors' entry and exit times and calculate the duration of their stay within the premises. Built using Django, PostgreSQL, and JavaScript, the system helps manage and track visitor information effectively. The app follows the CRUD (Create, Read, Update, Delete) concept to handle visitor records.
+This application is designed to log visitors' entry , exit times and calculate the duration of their stay within the premises.
+Built using Django, PostgreSQL, and JavaScript, the system helps manage and track visitor information effectively. The app follows the CRUD (Create, Read, Update, Delete) concept to handle visitor records.
 
 ## Technologies Used
 
